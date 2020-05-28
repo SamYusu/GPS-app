@@ -1,0 +1,4 @@
+1.app med login bara.
+2.spara information inne i appen (lokalt)
+3.Koppla denna information till mysql eller sqlite
+4.Bygg gps funktion med maps API
